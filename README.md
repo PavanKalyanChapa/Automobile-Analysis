@@ -31,7 +31,7 @@ Clone the repository and install required libraries:
 git clone https://github.com/PavanKalyanChapa/automobile-analysis.git
 cd automobile-analysis
 pip install -r requirements.txt
-
+```
 Results and Insights
 Market Trends: Insights into popular vehicle types and price ranges.
 Performance Metrics: Analysis of performance across different categories.
